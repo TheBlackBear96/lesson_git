@@ -1,5 +1,6 @@
 def print_hi():
     print('Привет, мир!')
+    print('Ещё привет!')
 
 
 if __name__ == '__main__':
